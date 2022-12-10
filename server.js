@@ -12,3 +12,5 @@ const port = process.env.PORT || 3001;
 server.listen(port, () => {
   console.log(`JSON Server is running on port ${port}`);
 });
+// Export the Server API
+module.exports = server
