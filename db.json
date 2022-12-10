@@ -16,5 +16,19 @@
       "preferred_programming_language": "Python",
       "best_frontend_framework": "React"
     }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "asdf",
+      "body": "asdf",
+      "username": "asdf"
+    },
+    {
+      "title": "sdfa",
+      "body": "ewr",
+      "username": "erwe",
+      "id": 2
+    }
   ]
 }
